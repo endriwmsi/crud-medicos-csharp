@@ -1,0 +1,11 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = crud_medicos
+build_property.ProjectDir = /media/endriw/729C42D89C42970F/coisas/Endriw/Faculdade/Ulbra/ads/2023_1/POO/aula07_05-04-2023/crud-medicos-csharp/crud-medicos/
