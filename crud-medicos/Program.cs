@@ -1,46 +1,51 @@
 ﻿using crud_medicos;
 
-class Program {
-  static void Main(string[] args) {
+class Program
+{
+  static Repository repository = new Repository();
 
-    int opcao;
+  static void Main(string[] args)
+  {
+    int opcao = 0;
+    MedicoController medicoController = new MedicoController();
 
-    do
+    while (opcao != 6)
     {
       Console.WriteLine("Selecione uma opção:");
       Console.WriteLine("1 - Adicionar médico");
       Console.WriteLine("2 - Listar médicos");
       Console.WriteLine("3 - Verificar disponibilidade de médico");
-      Console.WriteLine("4 - Agendar consulta");
-      Console.WriteLine("0 - Sair");
+      Console.WriteLine("4 - Marcar consulta");
+      Console.WriteLine("5 - Excluir médico");
+      Console.WriteLine("6 - Sair");
 
-      if (!int.TryParse(Console.ReadLine(), out opcao))
+      if (!int.TryParse(Console.ReadLine(), out opcao) || opcao < 1 || opcao > 6)
       {
-        Console.WriteLine("Opção inválida!");
+        Console.WriteLine("Opção inválida. Tente novamente.");
         continue;
       }
 
       switch (opcao)
       {
         case 1:
-          // Método adicionar médico
+          medicoController.AdicionarMedico();
           break;
         case 2:
-          // Método Listar médicos
+          medicoController.ListarMedicos();
           break;
         case 3:
-          // Método Verificar disponibilidade de médico
+          medicoController.VerificarDisponibilidadeMedico();
           break;
         case 4:
-          // Método Agendar consulta
-        case 0:
-          // Sair do programa
+          medicoController.MarcarConsulta();
           break;
-        default:
-        Console.WriteLine("Opção inválida!");
-        break;
+          case 5:
+          medicoController.ExcluirMedico();
+          break;
+        case 6:
+          Console.WriteLine("Saindo do programa...");
+          break;
       }
-      Console.WriteLine();
-    } while (opcao != 0);
-  }    
+    }
+  }
 }
