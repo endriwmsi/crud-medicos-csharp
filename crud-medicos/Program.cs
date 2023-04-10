@@ -9,6 +9,7 @@ class Program
     int opcao = 0;
     MedicoController medicoController = new MedicoController();
 
+    // Loop para o menu de opções
     while (opcao != 6)
     {
       Console.WriteLine("Selecione uma opção:");
@@ -25,6 +26,7 @@ class Program
         continue;
       }
 
+      // caso seja uma destas opções, chamar a classe MedicoController e seus respectivos métodos
       switch (opcao)
       {
         case 1:
@@ -42,6 +44,7 @@ class Program
           case 5:
           medicoController.ExcluirMedico();
           break;
+          // Caso seja 6, sair do programa
         case 6:
           Console.WriteLine("Saindo do programa...");
           break;

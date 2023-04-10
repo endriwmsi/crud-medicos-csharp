@@ -5,6 +5,7 @@ using System.Threading.Tasks;
 
 namespace crud_medicos
 {
+    // Classe Medico
     public class Medico : Pessoa
     {
         public string CRM { get; set; }

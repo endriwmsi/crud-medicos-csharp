@@ -14,6 +14,7 @@ namespace crud_medicos
             repository = new Repository();
         }
 
+        // Método para adicionar novos médicos
         public void AdicionarMedico()
         {
             Medico medico = new Medico();
@@ -29,6 +30,7 @@ namespace crud_medicos
             Console.WriteLine("Médico adicionado com sucesso!");
         }
 
+        // Métodos para listar todos médicos ja cadastrados
         public void ListarMedicos()
         {
             List<Medico> medicos = repository.ListarMedicos();
@@ -50,6 +52,7 @@ namespace crud_medicos
             }
         }
 
+        // Método para verificar a disponibilidade de um médico pelo CRM e data
         public void VerificarDisponibilidadeMedico()
         {
             Console.WriteLine("Digite o CRM do médico:");
@@ -78,6 +81,7 @@ namespace crud_medicos
             }
         }
 
+        // Método para agendar consulta, caso haja disponibilidade de horário, ou exista o médico
         public void MarcarConsulta()
         {
             Console.WriteLine("Digite o CPF do paciente:");
@@ -110,6 +114,7 @@ namespace crud_medicos
             }
         }
 
+        // Método para excluir um médico
         public void ExcluirMedico()
         {
             Console.WriteLine("Digite o CRM do médico a ser excluído:");

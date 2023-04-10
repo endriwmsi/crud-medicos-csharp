@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/media/endriw/729C42D89C42970F/coisas/Endriw/Faculdade/Ulbra/ads/2023_1/POO/aula07_05-04-2023/crud-medicos-csharp/crud-medicos/crud-medicos.csproj": {}
+    "D:\\Arquivos Ulbra\\3º Semestre\\Programação Orientada a Objetos\\AP1\\crud-medicos-csharp\\crud-medicos\\crud-medicos.csproj": {}
   },
   "projects": {
-    "/media/endriw/729C42D89C42970F/coisas/Endriw/Faculdade/Ulbra/ads/2023_1/POO/aula07_05-04-2023/crud-medicos-csharp/crud-medicos/crud-medicos.csproj": {
+    "D:\\Arquivos Ulbra\\3º Semestre\\Programação Orientada a Objetos\\AP1\\crud-medicos-csharp\\crud-medicos\\crud-medicos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/media/endriw/729C42D89C42970F/coisas/Endriw/Faculdade/Ulbra/ads/2023_1/POO/aula07_05-04-2023/crud-medicos-csharp/crud-medicos/crud-medicos.csproj",
+        "projectUniqueName": "D:\\Arquivos Ulbra\\3º Semestre\\Programação Orientada a Objetos\\AP1\\crud-medicos-csharp\\crud-medicos\\crud-medicos.csproj",
         "projectName": "crud-medicos",
-        "projectPath": "/media/endriw/729C42D89C42970F/coisas/Endriw/Faculdade/Ulbra/ads/2023_1/POO/aula07_05-04-2023/crud-medicos-csharp/crud-medicos/crud-medicos.csproj",
-        "packagesPath": "/home/endriw/.nuget/packages/",
-        "outputPath": "/media/endriw/729C42D89C42970F/coisas/Endriw/Faculdade/Ulbra/ads/2023_1/POO/aula07_05-04-2023/crud-medicos-csharp/crud-medicos/obj/",
+        "projectPath": "D:\\Arquivos Ulbra\\3º Semestre\\Programação Orientada a Objetos\\AP1\\crud-medicos-csharp\\crud-medicos\\crud-medicos.csproj",
+        "packagesPath": "C:\\Users\\Felip\\.nuget\\packages\\",
+        "outputPath": "D:\\Arquivos Ulbra\\3º Semestre\\Programação Orientada a Objetos\\AP1\\crud-medicos-csharp\\crud-medicos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/endriw/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Felip\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.202/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

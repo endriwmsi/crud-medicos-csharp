@@ -3,24 +3,30 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace crud_medicos 
+namespace crud_medicos
 {
     public class Repository
     {
+        // Listas de Médicos, Pacientes e Consultas
         private List<Medico> medicos = new List<Medico>();
         private List<Paciente> pacientes = new List<Paciente>();
         private List<Consulta> consultas = new List<Consulta>();
 
+
+        // Chamando o método de adicionar médicos
         public void AdicionarMedico(Medico medico)
         {
             medicos.Add(medico);
         }
 
+        // Chamando o método de listar médicos
         public List<Medico> ListarMedicos()
         {
             return medicos;
         }
 
+
+        // Chamando o método de verificar disponibilidade
         public bool VerificarDisponibilidadeMedico(Medico medico, DateTime dataHora)
         {
             foreach (Consulta consulta in medico.Consultas)
@@ -32,7 +38,8 @@ namespace crud_medicos
             }
             return true;
         }
-
+   
+        // Chamando o método de marcar consulta
         public void MarcarConsulta(Medico medico, Paciente paciente, DateTime dataHora)
         {
             if (!VerificarDisponibilidadeMedico(medico, dataHora))
@@ -51,7 +58,8 @@ namespace crud_medicos
             paciente.Consultas.Add(consulta);
             consultas.Add(consulta);
         }
-
+   
+        // Chamando o método de excluir médico
         public void ExcluirMedico(Medico medico)
         {
             medicos.Remove(medico);

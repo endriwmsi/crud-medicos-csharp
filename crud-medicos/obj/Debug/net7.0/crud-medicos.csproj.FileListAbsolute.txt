@@ -13,3 +13,18 @@
 /media/endriw/729C42D89C42970F/coisas/Endriw/Faculdade/Ulbra/ads/2023_1/POO/aula07_05-04-2023/crud-medicos-csharp/crud-medicos/obj/Debug/net7.0/crud-medicos.pdb
 /media/endriw/729C42D89C42970F/coisas/Endriw/Faculdade/Ulbra/ads/2023_1/POO/aula07_05-04-2023/crud-medicos-csharp/crud-medicos/obj/Debug/net7.0/crud-medicos.genruntimeconfig.cache
 /media/endriw/729C42D89C42970F/coisas/Endriw/Faculdade/Ulbra/ads/2023_1/POO/aula07_05-04-2023/crud-medicos-csharp/crud-medicos/obj/Debug/net7.0/ref/crud-medicos.dll
+D:\Arquivos Ulbra\3º Semestre\Programação Orientada a Objetos\AP1\crud-medicos-csharp\crud-medicos\bin\Debug\net7.0\crud-medicos.exe
+D:\Arquivos Ulbra\3º Semestre\Programação Orientada a Objetos\AP1\crud-medicos-csharp\crud-medicos\bin\Debug\net7.0\crud-medicos.deps.json
+D:\Arquivos Ulbra\3º Semestre\Programação Orientada a Objetos\AP1\crud-medicos-csharp\crud-medicos\bin\Debug\net7.0\crud-medicos.runtimeconfig.json
+D:\Arquivos Ulbra\3º Semestre\Programação Orientada a Objetos\AP1\crud-medicos-csharp\crud-medicos\bin\Debug\net7.0\crud-medicos.dll
+D:\Arquivos Ulbra\3º Semestre\Programação Orientada a Objetos\AP1\crud-medicos-csharp\crud-medicos\bin\Debug\net7.0\crud-medicos.pdb
+D:\Arquivos Ulbra\3º Semestre\Programação Orientada a Objetos\AP1\crud-medicos-csharp\crud-medicos\obj\Debug\net7.0\crud-medicos.csproj.AssemblyReference.cache
+D:\Arquivos Ulbra\3º Semestre\Programação Orientada a Objetos\AP1\crud-medicos-csharp\crud-medicos\obj\Debug\net7.0\crud-medicos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos Ulbra\3º Semestre\Programação Orientada a Objetos\AP1\crud-medicos-csharp\crud-medicos\obj\Debug\net7.0\crud-medicos.AssemblyInfoInputs.cache
+D:\Arquivos Ulbra\3º Semestre\Programação Orientada a Objetos\AP1\crud-medicos-csharp\crud-medicos\obj\Debug\net7.0\crud-medicos.AssemblyInfo.cs
+D:\Arquivos Ulbra\3º Semestre\Programação Orientada a Objetos\AP1\crud-medicos-csharp\crud-medicos\obj\Debug\net7.0\crud-medicos.csproj.CoreCompileInputs.cache
+D:\Arquivos Ulbra\3º Semestre\Programação Orientada a Objetos\AP1\crud-medicos-csharp\crud-medicos\obj\Debug\net7.0\crud-medicos.dll
+D:\Arquivos Ulbra\3º Semestre\Programação Orientada a Objetos\AP1\crud-medicos-csharp\crud-medicos\obj\Debug\net7.0\refint\crud-medicos.dll
+D:\Arquivos Ulbra\3º Semestre\Programação Orientada a Objetos\AP1\crud-medicos-csharp\crud-medicos\obj\Debug\net7.0\crud-medicos.pdb
+D:\Arquivos Ulbra\3º Semestre\Programação Orientada a Objetos\AP1\crud-medicos-csharp\crud-medicos\obj\Debug\net7.0\crud-medicos.genruntimeconfig.cache
+D:\Arquivos Ulbra\3º Semestre\Programação Orientada a Objetos\AP1\crud-medicos-csharp\crud-medicos\obj\Debug\net7.0\ref\crud-medicos.dll

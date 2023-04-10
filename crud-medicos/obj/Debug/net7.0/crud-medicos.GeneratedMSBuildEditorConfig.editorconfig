@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = crud_medicos
-build_property.ProjectDir = /media/endriw/729C42D89C42970F/coisas/Endriw/Faculdade/Ulbra/ads/2023_1/POO/aula07_05-04-2023/crud-medicos-csharp/crud-medicos/
+build_property.ProjectDir = D:\Arquivos Ulbra\3º Semestre\Programação Orientada a Objetos\AP1\crud-medicos-csharp\crud-medicos\
