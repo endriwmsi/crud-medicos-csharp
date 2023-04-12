@@ -15,8 +15,8 @@ class Program
       Console.WriteLine("Selecione uma opção:");
       Console.WriteLine("1 - Adicionar médico");
       Console.WriteLine("2 - Listar médicos");
-      Console.WriteLine("3 - Verificar disponibilidade de médico");
-      Console.WriteLine("4 - Marcar consulta");
+      Console.WriteLine("3 - Marcar consulta");
+      Console.WriteLine("4 - Verificar disponibilidade de médico");
       Console.WriteLine("5 - Excluir médico");
       Console.WriteLine("6 - Sair");
 
@@ -36,10 +36,10 @@ class Program
           medicoController.ListarMedicos();
           break;
         case 3:
-          medicoController.VerificarDisponibilidadeMedico();
+          medicoController.MarcarConsulta();
           break;
         case 4:
-          medicoController.MarcarConsulta();
+          medicoController.VerificarDisponibilidadeMedico();
           break;
           case 5:
           medicoController.ExcluirMedico();

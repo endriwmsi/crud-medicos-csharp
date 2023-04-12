@@ -21,7 +21,7 @@ namespace crud_medicos
             Console.WriteLine("Digite o nome do médico:");
             medico.Nome = Console.ReadLine();
             Console.WriteLine("Digite o CPF do médico:");
-            medico.CPF = Console.ReadLine();
+            medico.SetCpf (Console.ReadLine());
             Console.WriteLine("Digite o CRM do médico:");
             medico.CRM = Console.ReadLine();
             Console.WriteLine("Digite a especialidade do médico:");
@@ -46,7 +46,7 @@ namespace crud_medicos
                 foreach (Medico medico in medicos)
                 {
                     Console.WriteLine("Nome: {0}\nCPF: {1}\nCRM: {2}\nEspecialidade: {3}",
-                    medico.Nome, medico.CPF, medico.CRM, medico.Especialidade);
+                    medico.Nome, medico.GetCpf(), medico.CRM, medico.Especialidade);
                     Console.WriteLine("");
                 }
             }
@@ -86,7 +86,9 @@ namespace crud_medicos
         {
             Console.WriteLine("Digite o CPF do paciente:");
             string cpf = Console.ReadLine();
-            Paciente paciente = new Paciente() { CPF = cpf };
+            Paciente paciente = new Paciente();
+            paciente.SetCpf(cpf);
+            
             Console.WriteLine("Digite o CRM do médico:");
             string crm = Console.ReadLine();
             Medico medico = repository.ListarMedicos().FirstOrDefault(m => m.CRM == crm);

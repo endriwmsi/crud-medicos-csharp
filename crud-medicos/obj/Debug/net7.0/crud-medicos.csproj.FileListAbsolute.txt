@@ -28,3 +28,18 @@ D:\Arquivos Ulbra\3º Semestre\Programação Orientada a Objetos\AP1\crud-medico
 D:\Arquivos Ulbra\3º Semestre\Programação Orientada a Objetos\AP1\crud-medicos-csharp\crud-medicos\obj\Debug\net7.0\crud-medicos.pdb
 D:\Arquivos Ulbra\3º Semestre\Programação Orientada a Objetos\AP1\crud-medicos-csharp\crud-medicos\obj\Debug\net7.0\crud-medicos.genruntimeconfig.cache
 D:\Arquivos Ulbra\3º Semestre\Programação Orientada a Objetos\AP1\crud-medicos-csharp\crud-medicos\obj\Debug\net7.0\ref\crud-medicos.dll
+C:\Users\User\Desktop\Coisas\Endriw\Projetos\crud-medicos-csharp\crud-medicos\bin\Debug\net7.0\crud-medicos.exe
+C:\Users\User\Desktop\Coisas\Endriw\Projetos\crud-medicos-csharp\crud-medicos\bin\Debug\net7.0\crud-medicos.deps.json
+C:\Users\User\Desktop\Coisas\Endriw\Projetos\crud-medicos-csharp\crud-medicos\bin\Debug\net7.0\crud-medicos.runtimeconfig.json
+C:\Users\User\Desktop\Coisas\Endriw\Projetos\crud-medicos-csharp\crud-medicos\bin\Debug\net7.0\crud-medicos.dll
+C:\Users\User\Desktop\Coisas\Endriw\Projetos\crud-medicos-csharp\crud-medicos\bin\Debug\net7.0\crud-medicos.pdb
+C:\Users\User\Desktop\Coisas\Endriw\Projetos\crud-medicos-csharp\crud-medicos\obj\Debug\net7.0\crud-medicos.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Coisas\Endriw\Projetos\crud-medicos-csharp\crud-medicos\obj\Debug\net7.0\crud-medicos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Coisas\Endriw\Projetos\crud-medicos-csharp\crud-medicos\obj\Debug\net7.0\crud-medicos.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Coisas\Endriw\Projetos\crud-medicos-csharp\crud-medicos\obj\Debug\net7.0\crud-medicos.AssemblyInfo.cs
+C:\Users\User\Desktop\Coisas\Endriw\Projetos\crud-medicos-csharp\crud-medicos\obj\Debug\net7.0\crud-medicos.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Coisas\Endriw\Projetos\crud-medicos-csharp\crud-medicos\obj\Debug\net7.0\crud-medicos.dll
+C:\Users\User\Desktop\Coisas\Endriw\Projetos\crud-medicos-csharp\crud-medicos\obj\Debug\net7.0\refint\crud-medicos.dll
+C:\Users\User\Desktop\Coisas\Endriw\Projetos\crud-medicos-csharp\crud-medicos\obj\Debug\net7.0\crud-medicos.pdb
+C:\Users\User\Desktop\Coisas\Endriw\Projetos\crud-medicos-csharp\crud-medicos\obj\Debug\net7.0\crud-medicos.genruntimeconfig.cache
+C:\Users\User\Desktop\Coisas\Endriw\Projetos\crud-medicos-csharp\crud-medicos\obj\Debug\net7.0\ref\crud-medicos.dll

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Arquivos Ulbra\\3º Semestre\\Programação Orientada a Objetos\\AP1\\crud-medicos-csharp\\crud-medicos\\crud-medicos.csproj": {}
+    "C:\\Users\\User\\Desktop\\Coisas\\Endriw\\Projetos\\crud-medicos-csharp\\crud-medicos\\crud-medicos.csproj": {}
   },
   "projects": {
-    "D:\\Arquivos Ulbra\\3º Semestre\\Programação Orientada a Objetos\\AP1\\crud-medicos-csharp\\crud-medicos\\crud-medicos.csproj": {
+    "C:\\Users\\User\\Desktop\\Coisas\\Endriw\\Projetos\\crud-medicos-csharp\\crud-medicos\\crud-medicos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Arquivos Ulbra\\3º Semestre\\Programação Orientada a Objetos\\AP1\\crud-medicos-csharp\\crud-medicos\\crud-medicos.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\Coisas\\Endriw\\Projetos\\crud-medicos-csharp\\crud-medicos\\crud-medicos.csproj",
         "projectName": "crud-medicos",
-        "projectPath": "D:\\Arquivos Ulbra\\3º Semestre\\Programação Orientada a Objetos\\AP1\\crud-medicos-csharp\\crud-medicos\\crud-medicos.csproj",
-        "packagesPath": "C:\\Users\\Felip\\.nuget\\packages\\",
-        "outputPath": "D:\\Arquivos Ulbra\\3º Semestre\\Programação Orientada a Objetos\\AP1\\crud-medicos-csharp\\crud-medicos\\obj\\",
+        "projectPath": "C:\\Users\\User\\Desktop\\Coisas\\Endriw\\Projetos\\crud-medicos-csharp\\crud-medicos\\crud-medicos.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\Coisas\\Endriw\\Projetos\\crud-medicos-csharp\\crud-medicos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Felip\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }
